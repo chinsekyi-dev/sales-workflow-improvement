@@ -73,6 +73,7 @@ def fetch_sales_triggers(days_back=7, sort_by="publishedAt", region=None):
     # Sales trigger queries
     # TODO: Need to be improved by Sales team feedback
     queries = [
+        "patent OR IP OR intellectual property",
         "funding round OR Series A OR Series B OR venture capital",
         "acquisition OR merger OR partnership",
         "CEO appointment OR CTO hire OR leadership change",
