@@ -1,11 +1,14 @@
 import json
 import os
-from dotenv import load_dotenv
 from datetime import datetime, timedelta
+
+from dotenv import load_dotenv
 from newsapi import NewsApiClient
 
 # Load environment variables from config/.env
-config_env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'config', '.env')
+config_env_path = os.path.join(
+    os.path.dirname(os.path.dirname(__file__)), "config", ".env"
+)
 load_dotenv(dotenv_path=config_env_path)
 newsapi = NewsApiClient(api_key=os.getenv("NEWS_API_KEY"))
 
@@ -14,7 +17,7 @@ def fetch_news_by_query(query="Apple", days_back=30, sort_by="popularity"):
     """
     Fetch news articles from NewsAPI by search query
     Search for news articles that mention a specific topic or keyword
-    
+
     Args:
         query: Search query string
         days_back: Number of days to look back
@@ -22,14 +25,10 @@ def fetch_news_by_query(query="Apple", days_back=30, sort_by="popularity"):
     """
     from_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
     to_date = datetime.now().strftime("%Y-%m-%d")
-    
+
     try:
         response = newsapi.get_everything(
-            q=query,
-            from_param=from_date,
-            to=to_date,
-            sort_by=sort_by,
-            language='en'
+            q=query, from_param=from_date, to=to_date, sort_by=sort_by, language="en"
         )
         return response
     except Exception as e:
@@ -41,16 +40,13 @@ def fetch_top_headlines(country="sg", category=None):
     """
     Fetch top headlines from NewsAPI
     Get the current top headlines for a country or category
-    
+
     Args:
         country: Country code (e.g., 'sg', 'us', 'gb', 'cn', 'au', 'in', etc.)
         category: Category (business, technology, science, health, sports, entertainment, etc.)
     """
     try:
-        response = newsapi.get_top_headlines(
-            country=country,
-            category=category
-        )
+        response = newsapi.get_top_headlines(country=country, category=category)
         return response
     except Exception as e:
         print(f"Error fetching news: {e}")
@@ -61,77 +57,81 @@ def fetch_sales_triggers(days_back=7, sort_by="publishedAt", region=None):
     """
     Fetch sales trigger news for Patsnap's sales team
     Searches for funding, acquisitions, leadership changes, product launches, etc.
-    
+
     Args:
         days_back: Number of days to look back
         sort_by: Sort order (publishedAt recommended for timely triggers)
         region: Optional region filter (e.g., 'Singapore', 'Asia', 'United States')
-    
+
     Returns:
         dict: Combined news data with articles from all sales trigger queries
     """
-    # Sales trigger queries
+    # Sales trigger queries with short names
     # TODO: Need to be improved by Sales team feedback
-    queries = [
-        "patent OR IP OR intellectual property",
-        "funding round OR Series A OR Series B OR venture capital",
-        "acquisition OR merger OR partnership",
-        "CEO appointment OR CTO hire OR leadership change",
-        "product launch OR new product OR innovation announcement",
-        "patent granted OR regulatory approval OR FDA approval",
-        "IPO OR going public OR stock listing",
-        "expansion OR opening office OR market entry"
-    ]
-    
+    trigger_queries = {
+        "Patent & IP": '(company OR startup OR firm OR corporation) AND (patent OR "intellectual property" OR "IP portfolio" OR trademark) AND (granted OR filed OR awarded OR secures)',
+        # "Funding": '(company OR startup) AND ("funding round" OR "Series A" OR "Series B" OR "raises" OR "secures funding" OR "venture capital")',
+        # "Acquisition": '(company OR firm) AND (acquisition OR merger OR "acquired by" OR "acquires" OR partnership)',
+        # "Leadership": '(company OR firm OR corporation) AND ("CEO" OR "CTO" OR "CFO") AND (appointment OR "appoints" OR hire OR "joins as" OR "named" OR "announces")',
+        "Product Launch": '(company OR startup OR firm) AND ("product launch" OR "launches" OR "unveils" OR "announces" OR "introduces" OR "new product")',
+        # "Regulatory": '(company OR firm) AND ("regulatory approval" OR "FDA approval" OR "receives approval" OR licensed OR certified)',
+        # "IPO": '(company OR startup) AND ("IPO" OR "going public" OR "files for IPO" OR "initial public offering" OR "stock listing")',
+        "Expansion": '(company OR startup OR firm) AND (expansion OR "opens office" OR "opening" OR "expands into" OR "enters market" OR "new location")',
+    }
+
     # Add region filter if specified
+    queries_with_region = {}
     if region:
-        queries = [f"({query}) AND {region}" for query in queries]
-    
+        for name, query in trigger_queries.items():
+            queries_with_region[name] = f"({query}) AND {region}"
+    else:
+        queries_with_region = trigger_queries
+
     all_articles = []
     from_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
     to_date = datetime.now().strftime("%Y-%m-%d")
-    
-    for query in queries:
+
+    for trigger_name, query in queries_with_region.items():
         try:
             response = newsapi.get_everything(
                 q=query,
                 from_param=from_date,
                 to=to_date,
                 sort_by=sort_by,
-                language='en'
+                language="en",
             )
-            
-            if response.get('status') == 'ok' and response.get('articles'):
+
+            if response.get("status") == "ok" and response.get("articles"):
                 # Add source query tag to each article
-                for article in response['articles']:
-                    article['trigger_type'] = query
-                all_articles.extend(response['articles'])
+                for article in response["articles"]:
+                    article["trigger_type"] = trigger_name  # Use short name instead of query
+                all_articles.extend(response["articles"])
                 print(f"Found {len(response['articles'])} articles for: {query}")
         except Exception as e:
             print(f"Error fetching news for '{query}': {e}")
             continue
-    
+
     # Remove duplicates based on URL
     seen_urls = set()
     unique_articles = []
     for article in all_articles:
-        if article.get('url') not in seen_urls:
-            seen_urls.add(article['url'])
+        if article.get("url") not in seen_urls:
+            seen_urls.add(article["url"])
             unique_articles.append(article)
-    
+
     return {
-        'status': 'ok',
-        'totalResults': len(unique_articles),
-        'articles': unique_articles
+        "status": "ok",
+        "totalResults": len(unique_articles),
+        "articles": unique_articles,
     }
-    
+
 
 def save_news_to_file(news_data, filename="news_data.json"):
     """Save news data to a JSON file in the data directory"""
     if news_data:
         data_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
         os.makedirs(data_dir, exist_ok=True)
-        
+
         filepath = os.path.join(data_dir, filename)
         with open(filepath, "w") as f:
             json.dump(news_data, f, indent=2)
@@ -143,24 +143,24 @@ def save_news_to_file(news_data, filename="news_data.json"):
 if __name__ == "__main__":
     print("Fetching sales trigger news for Patsnap (Singapore focus)...")
     print("=" * 50)
-    
+
     # Fetch sales triggers for Singapore
     news = fetch_sales_triggers(days_back=7, sort_by="publishedAt", region="Singapore")
-    
+
     if news:
         print(f"\nStatus: {news.get('status')}")
         print(f"Total Unique Articles: {news.get('totalResults')}")
         print(f"Articles Retrieved: {len(news.get('articles', []))}")
-        
+
         # Save to file
         save_news_to_file(news, filename="sales_triggers.json")
-        
+
         # Print first 3 articles as examples
-        if news.get('articles'):
+        if news.get("articles"):
             print("\n" + "=" * 50)
             print("Sample Sales Trigger Articles:")
             print("=" * 50)
-            for i, article in enumerate(news['articles'][:3], 1):
+            for i, article in enumerate(news["articles"][:3], 1):
                 print(f"\n{i}. {article.get('title')}")
                 print(f"   Source: {article.get('source', {}).get('name')}")
                 print(f"   Published: {article.get('publishedAt')}")
