@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 100,
+  "totalResults": 102,
   "articles": [
     {
       "source": {
@@ -85,6 +85,34 @@
       "publishedAt": "2025-12-05T11:00:00Z",
       "content": "<ul><li>Revenue regained growth momentum, increasing 17% QoQ and 1% YoY, marking the second consecutive quarter of double-digit sequential growth and reflecting improving revenue quality</li><li>Adju\u2026 [+47254 chars]",
       "trigger_type": "Patent & IP"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Planisware",
+      "title": "Planisware expands its Asia-Pacific footprint with the opening of an office and two new data centers in Australia",
+      "description": "Planisware expands its Asia-Pacific footprintwith the opening of an office andtwo new data centers in Australia  Paris, France, December 11, 2025 -...",
+      "url": "https://www.globenewswire.com/news-release/2025/12/11/3203631/0/en/Planisware-expands-its-Asia-Pacific-footprint-with-the-opening-of-an-office-and-two-new-data-centers-in-Australia.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/06e15e17-9d65-42b8-8867-431c4317b42a",
+      "publishedAt": "2025-12-11T07:00:00Z",
+      "content": "Planisware expands its Asia-Pacific footprintwith the opening of an office andtwo new data centers in Australia\r\nParis, France, December 11, 2025 - Planisware, a leading provider of B2B AI-powered Sa\u2026 [+3969 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "BioVersys",
+      "title": "BioVersys Announces BV100 Phase 3 Initiation and Provides a Business Update",
+      "description": "Ad hoc announcement pursuant to Art. 53LR  BASEL, Switzerland, Dec.  11, 2025  (GLOBE NEWSWIRE) --   BV100 Phase 3 in Ventilator Associated Bacterial...",
+      "url": "https://www.globenewswire.com/news-release/2025/12/11/3203614/0/en/BioVersys-Announces-BV100-Phase-3-Initiation-and-Provides-a-Business-Update.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/37dee549-5eb0-418f-a16c-11d8422babfb",
+      "publishedAt": "2025-12-11T06:00:00Z",
+      "content": "Ad hoc announcement pursuant to Art. 53LR\r\nBASEL, Switzerland, Dec. 11, 2025 (GLOBE NEWSWIRE) -- \r\n<ul><li>BV100 Phase 3 in Ventilator Associated Bacterial Pneumonia initiated with first country subm\u2026 [+10169 chars]",
+      "trigger_type": "Product Launch"
     },
     {
       "source": {
@@ -892,10 +920,10 @@
       "author": "Maulik Vyas",
       "title": "Lawyers sit pretty as lenders come hunting",
       "description": "Banks and NBFCs have ramped up legal hires amid regulatory checks, rising deal flows & compliance demands.",
-      "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/lawyers-sit-pretty-as-lenders-come-hunting/articleshow/125844512.cms",
+      "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/lawyers-sit-pretty-as-lenders-come-hunting/articleshow/125844319.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-125844437,width-1200,height-630,imgsize-36010,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-08T18:50:15Z",
-      "content": "Mumbai: India's banking and financial services sector is making high-profile legal hires as institutions respond to intensifying regulatory scrutiny, rising deal flows, and increasingly complex compl\u2026 [+2453 chars]",
+      "content": "Mumbai: India's banking and financial services sector is making high-profile legal hires as institutions respond to intensifying regulatory scrutiny, rising deal flows, and increasingly complex compl\u2026 [+2454 chars]",
       "trigger_type": "Expansion"
     },
     {
@@ -906,10 +934,10 @@
       "author": "Maulik Vyas",
       "title": "Lawyers sit pretty as lenders come hunting",
       "description": "Banks and NBFCs have ramped up legal hires amid regulatory checks, rising deal flows & compliance demands.",
-      "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/lawyers-sit-pretty-as-lenders-come-hunting/articleshow/125844319.cms",
+      "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/lawyers-sit-pretty-as-lenders-come-hunting/articleshow/125844512.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-125844437,width-1200,height-630,imgsize-36010,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-08T18:50:15Z",
-      "content": "Mumbai: India's banking and financial services sector is making high-profile legal hires as institutions respond to intensifying regulatory scrutiny, rising deal flows, and increasingly complex compl\u2026 [+2454 chars]",
+      "content": "Mumbai: India's banking and financial services sector is making high-profile legal hires as institutions respond to intensifying regulatory scrutiny, rising deal flows, and increasingly complex compl\u2026 [+2453 chars]",
       "trigger_type": "Expansion"
     },
     {
@@ -957,20 +985,6 @@
     {
       "source": {
         "id": null,
-        "name": "Europa.eu"
-      },
-      "author": "European Central Bank",
-      "title": "Piero Cipollone: The transformation of money: technological disruption and the future of financial services",
-      "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "url": "https://www.ecb.europa.eu//press/key/date/2025/html/ecb.sp251208~4c07c78304.en.html",
-      "urlToImage": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
-      "publishedAt": "2025-12-08T15:00:00Z",
-      "content": "Guest lecture by Piero Cipollone, Member of the Executive Board of the ECB, at the Frankfurt School of Finance &amp; Management\r\nFrankfurt am Main, 8 December 2025\r\nMoney is at the heart of what cent\u2026 [+37505 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Precedence Research",
@@ -980,6 +994,20 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-12-08T15:00:00Z",
       "content": "Ottawa, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The global paper tubes market, which stood at USD 11.34 billion in 2025, is projected to grow further to USD 21.61 billion by 2035, according to data publish\u2026 [+20347 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Europa.eu"
+      },
+      "author": "European Central Bank",
+      "title": "Piero Cipollone: The transformation of money: technological disruption and the future of financial services",
+      "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "url": "https://www.ecb.europa.eu//press/key/date/2025/html/ecb.sp251208~4c07c78304.en.html",
+      "urlToImage": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+      "publishedAt": "2025-12-08T15:00:00Z",
+      "content": "Guest lecture by Piero Cipollone, Member of the Executive Board of the ECB, at the Frankfurt School of Finance &amp; Management\r\nFrankfurt am Main, 8 December 2025\r\nMoney is at the heart of what cent\u2026 [+37505 chars]",
       "trigger_type": "Expansion"
     },
     {
