@@ -1,10 +1,8 @@
 import json
 import os
-from datetime import datetime
 
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import streamlit as st
 
 from src.get_news import fetch_news_by_query, save_news_to_file
@@ -266,14 +264,14 @@ if news_data and news_data.get("status") == "ok":
                 df["trigger_type"] = pd.Categorical(
                     df["trigger_type"], categories=trigger_order, ordered=True
                 )
-                
+
                 trigger_counts = df["trigger_type"].value_counts()
                 fig_triggers = px.pie(
                     values=trigger_counts.values,
                     names=trigger_counts.index,
                     title="Distribution of Sales Triggers",
                     hole=0.3,
-                    category_orders={"names": trigger_order}
+                    category_orders={"names": trigger_order},
                 )
                 st.plotly_chart(fig_triggers, use_container_width=True)
                 st.markdown("---")

@@ -2,8 +2,8 @@ install:
 	pip install -r requirements.txt
 
 format:
-	black src/*.py *.py
-	isort src/*.py *.py
+	black .
+	isort .
 
 run-fetch:
 	python src/get_news.py

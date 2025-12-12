@@ -104,7 +104,9 @@ def fetch_sales_triggers(days_back=7, sort_by="publishedAt", region=None):
             if response.get("status") == "ok" and response.get("articles"):
                 # Add source query tag to each article
                 for article in response["articles"]:
-                    article["trigger_type"] = trigger_name  # Use short name instead of query
+                    article["trigger_type"] = (
+                        trigger_name  # Use short name instead of query
+                    )
                 all_articles.extend(response["articles"])
                 print(f"Found {len(response['articles'])} articles for: {query}")
         except Exception as e:

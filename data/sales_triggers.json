@@ -1,7 +1,35 @@
 {
   "status": "ok",
-  "totalResults": 124,
+  "totalResults": 100,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Qiuxia Zhu, Rizal Rahman",
+      "title": "Designing ethical souvenirs to sustain the cultural integrity of Dunhuang heritage",
+      "description": "Mass-produced tourism souvenirs often dilute the cultural integrity of heritage sites, yet the mechanisms by which design philosophy and ethics sustain authenticity remain underexplored. This study investigates how designers\u2019 philosophical stances and ethical\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338506",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338506.g006&size=inline",
+      "publishedAt": "2025-12-09T14:00:00Z",
+      "content": "Abstract\r\nMass-produced tourism souvenirs often dilute the cultural integrity of heritage sites, yet the mechanisms by which design philosophy and ethics sustain authenticity remain underexplored. Th\u2026 [+70435 chars]",
+      "trigger_type": "Patent & IP"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Influencer Success",
+      "title": "Pipper Standard\u00ae Achieves Strong Growth in Korea, Driven by Influencer Success; Announces 2026 Product Expansion",
+      "description": "Pipper Standard\u00ae Achieves Strong Growth in Korea, Driven by Influencer Success; Announces 2026 Product Expansionapnews.com",
+      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/pipper-standard-achieves-strong-growth-in-korea-driven-by-influencer-success-announces-2026-product-expansion-16d7fce2a296bcc51b898b8249889702",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e77f960/2147483647/strip/true/crop/887x499+0+91/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2F22%2F1027bb9c68ab31642fd2e7643b70%2F277aebfec11b4b9cb71a753bcd68e4b9",
+      "publishedAt": "2025-12-09T07:01:29Z",
+      "content": "Strong influencer-driven sales and Koreas demand for natural, certified products continue to power growth.\r\nFermentation has long been part of Korean life, from kimchi to traditional sauces a symbol \u2026 [+5505 chars]",
+      "trigger_type": "Patent & IP"
+    },
     {
       "source": {
         "id": null,
@@ -61,30 +89,184 @@
     {
       "source": {
         "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Endeavour Mining PLC",
+      "title": "Holding(s) in Company",
+      "description": "Endeavour Mining plc (\u201cthe Company\u201d) announces that it received the following notification from BlackRock, Inc. of its interests in the Company as at 09 December 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203346/0/en/Holding-s-in-Company.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
+      "publishedAt": "2025-12-10T15:41:00Z",
+      "content": "Endeavour Mining plc (the Company) announces that it received the following notification from BlackRock, Inc. of its interests in the Company as at 09 December 2025\r\nTR-1: Standard form for notificat\u2026 [+17473 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cult of Mac"
+      },
+      "author": "Ed Hardy",
+      "title": "When to expect iOS 26.2 release in your time zone",
+      "description": "Learn the most likely iOS 26.2 release date and time, and discover new features like an AirDrop update plus bug fixes for your iPhone.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+      "url": "https://www.cultofmac.com/news/ios-26-2-release-date-time",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2025/12/iOS-26-2-release-date.jpg.webp",
+      "publishedAt": "2025-12-10T15:16:45Z",
+      "content": "The release date for iOS 26.2 could be today. Image: Cult of Mac\r\niOS 26.2 is almost here. Apple\u2019s latest OS iPhone update includes a useful change to AirDrop file sharing, a prominent tweak to Liqui\u2026 [+4274 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Coinjournal.net"
+      },
+      "author": "Collaborations",
+      "title": "Folks Finance announces xChain V2 with $10m+ incentives: Scaling crosschain DeFi into mainstream use",
+      "description": "Folks Finance to launch xChain V2 in H1 2026 with $10M in incentives for crosschain lending users. V2 upgrade brings simpler crosschain DeFi, new strategy vaults, and EVM + non-EVM support. Mobile app integration to enable debit-card borrowing while keeping c\u2026",
+      "url": "https://coinjournal.net/news/folks-finance-announces-xchain-v2-with-10m-incentives-scaling-crosschain-defi-into-mainstream-use/",
+      "urlToImage": "https://coinjournal.net/wp-content/uploads/2025/12/unnamed.jpg",
+      "publishedAt": "2025-12-10T14:00:39Z",
+      "content": "<ul><li>Folks Finance to launch xChain V2 in H1 2026 with $10M in incentives for crosschain lending users.</li><li>V2 upgrade brings simpler crosschain DeFi, new strategy vaults, and EVM + non-EVM su\u2026 [+2730 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BusinessLine"
       },
-      "author": "KS Badri Narayanan, Team BL",
-      "title": "Share Market Highlights: Markets end marginally higher; Sensex closes at 85,265, Nifty at 26,034",
-      "description": "Sensex, Nifty updates on 4 December 2025: Benchmark indices ended slightly higher on Thursday as investors stayed on the sidelines ahead of the Reserve Bank of India\u2019s monetary policy outcome on Friday. The Sensex rose 158.51 points to close at \u20b985,265.32, wh\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-4-december-2025/article70353053.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/kqvppt/article70353058.ece/alternates/LANDSCAPE_1200/PO11_Chart.jpg",
-      "publishedAt": "2025-12-04T01:13:07Z",
-      "content": "<li></li>\r\nDecember 4, 2025 15:53The live blog is now closed\r\n<li></li>\r\nDecember 4, 2025 15:40CLOSING BELL: Sensex settled with 158.51 pts or 0.19% gains at 85,265.32, and Nifty 50 was up 47.75 pts \u2026 [+73073 chars]",
-      "trigger_type": "Patent & IP"
+      "author": null,
+      "title": "DKSH Healthcare Launches Three-Part Whitepaper Series Showcasing Asia Pacific\u2019s Growing Healthcare Outsourcing Opportunity",
+      "description": "DKSH Healthcare Launches Three-Part Whitepaper Series Showcasing Asia Pacific's Growing Healthcare Outsourcing Opportunity",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/dksh-healthcare-launches-three-part-whitepaper-series-showcasing-asia-pacifics-growing-healthcare-outsourcing-opportunity/article70379857.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/5lvufj/article70379848.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-10%20152152.png",
+      "publishedAt": "2025-12-10T10:36:04Z",
+      "content": "DKSH Business Unit Healthcare Launches a three-part whitepaper series to help healthcare and life science companies explore industry trends and current market pressures to re-think commercial go-to m\u2026 [+6191 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": null,
+      "title": "Apparel Group India Announces Strategic Partnership to Launch Levi\u2019s Kids in India",
+      "description": "Apparel Group India Announces Strategic Partnership to Launch Levi\u2019s Kids in India",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/apparel-group-india-announces-strategic-partnership-to-launch-levis-kids-in-india/article70379355.ece",
+      "urlToImage": "https://th-i.thgim.com/public/brandhub/j1ikmr/article70379351.ece/alternates/LANDSCAPE_1200/Apparel_Group_Levis_Kids.jpg",
+      "publishedAt": "2025-12-10T07:25:31Z",
+      "content": "Iconic global denim brand expands into the fast-growing premium kidswear market through Apparel Group Indias robust retail ecosystem\r\nMUMBAI, India,\u00a0Dec. 10, 2025\u00a0/PRNewswire/ -- Apparel Group, a lea\u2026 [+4797 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Team BL, KS Badri Narayanan",
+      "title": "Stock Market Highlights 10th December 2025: Sensex, Nifty extend losses for 3rd day as fag-end selloff erases gains",
+      "description": "Sensex, Nifty, Share Prices highlights:In a volatile session, the 30-share BSE Sensex dropped by 275.01 points, or 0.32 per cent, to settle at 84,391.27, a level not seen since November 11. During the day, it hit an intraday high of 85,020.34 and a low of 84,\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-highlights-10th-dec-2025/article70376325.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/kejvw8/article70375991.ece/alternates/LANDSCAPE_1200/IMG_PO23_Candle_graph_2_1_0HF6TV8P.jpg",
+      "publishedAt": "2025-12-10T01:01:51Z",
+      "content": "<li></li>\r\nDecember 10, 2025 16:17This live blog is closed for the day\r\nTo read more, visit businessline\r\n<li></li>\r\nDecember 10, 2025 16:15Stock market live: Rupee falls 9 paise to close at 89.96 ag\u2026 [+35169 chars]",
+      "trigger_type": "Product Launch"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Mesoblast Limited",
-      "title": "Mesoblast Participation at Piper Sandler Conference",
-      "description": "NEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Mesoblast Limited (Nasdaq:MESO; ASX:MSB), global leader in allogeneic cellular medicines for inflammatory diseases, today announced its participation at the Piper Sandler 37th Annual Healthcare Conference in New Yor\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3199432/0/en/Mesoblast-Participation-at-Piper-Sandler-Conference.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a9938a8a-a0ba-4708-abd5-2219515343fc",
-      "publishedAt": "2025-12-03T23:10:00Z",
-      "content": "NEW YORK, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Mesoblast Limited (Nasdaq:MESO; ASX:MSB), global leader in allogeneic cellular medicines for inflammatory diseases, today announced its participation at th\u2026 [+7094 chars]",
-      "trigger_type": "Patent & IP"
+      "author": "Endeavour Mining PLC",
+      "title": "Holding(s) in Company",
+      "description": "Endeavour Mining plc (\u201cthe Company\u201d) announces that it received the following notification from BlackRock, Inc of its interests in the Company as at 8 December 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202720/0/en/Holding-s-in-Company.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
+      "publishedAt": "2025-12-09T18:33:00Z",
+      "content": "Endeavour Mining plc (the Company) announces that it received the following notification from BlackRock, Inc of its interests in the Company as at 8 December 2025\r\nTR-1: Standard form for notificatio\u2026 [+17471 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cryptonews"
+      },
+      "author": "Hassan Shittu",
+      "title": "Malaysia\u2019s Crown Prince Launches $121M Crypto Treasury \u2013 Despite Bubble Fears",
+      "description": "Malaysia\u2019s Crown Prince has formally stepped into the digital-asset sector with a new state-backed stablecoin initiative and a large crypto-treasury plan...",
+      "url": "https://cryptonews.com/news/malaysia-crypto-treasury-bubble-fears/",
+      "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/d4e7be184d03d13603e7ac1ec2caf08a",
+      "publishedAt": "2025-12-09T18:13:50Z",
+      "content": "Malaysias Crown Prince has formally stepped into the digital-asset sector with a new state-backed stablecoin initiative and a large crypto-treasury plan, even as concerns grow over whether the global\u2026 [+4008 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Trends in Transparent Plastic Packaging Market 2025-2035",
+      "description": "According to industry findings by Towards Packaging, the global transparent plastic packaging market will expand at a CAGR of 5.5% from 2025 to 2034....",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202534/0/en/Trends-in-Transparent-Plastic-Packaging-Market-2025-2035.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-09T15:00:00Z",
+      "content": "Ottawa, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The global\u00a0transparent plastic packaging market was assessed at USD 94.95 billion in 2025, with projections indicating an increase to USD 162.19 billion by 2\u2026 [+21750 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph by Helen Partz",
+      "title": "Malaysia\u2019s crown prince launches ringgit stablecoin, Zetrix treasury",
+      "description": "The eldest son of Malaysia\u2019s billionaire king launches the RMJDT stablecoin through his telecom company, pairing it with a new DAT, echoing Saylor\u2019s BTC strategy.",
+      "url": "https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b02ef-f917-7774-9175-c83c4f3efb58",
+      "publishedAt": "2025-12-09T13:43:25Z",
+      "content": "The eldest son of Malaysias billionaire king is launching a stablecoin pegged to the national currency, targeting payments across the Asia-Pacific region.\r\nBullish Aim, a telecom company owned by Ism\u2026 [+3300 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Antalpha Platform Holding Company",
+      "title": "Gold Exchange Enters the Digital Age: Antalpha Launches Physical Gold - XAU\u20ae Exchange Service in Hong Kong",
+      "description": "Antalpha Partners with Malca-Amit, an LBMA Full Member Custodian, to Establish an Asian Physical Exchange Network for Digital Gold (XAU\u20ae) in Hong Kong Antalpha Partners with Malca-Amit, an LBMA Full Member Custodian, to Establish an Asian Physical Exchange Ne\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202145/0/en/Gold-Exchange-Enters-the-Digital-Age-Antalpha-Launches-Physical-Gold-XAU-Exchange-Service-in-Hong-Kong.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7cb44746-495a-4b36-a257-85766166727b",
+      "publishedAt": "2025-12-09T10:33:00Z",
+      "content": "SINGAPORE, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Against a backdrop of intensifying global macroeconomic volatility and geopolitical uncertainty, gold has once again solidified its status as a core value\u2026 [+5789 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": null,
+      "title": "Narayana Murthy shares leadership lessons at SMU Visionary Series as SMU launches 2026 Singapore-India Hackathon",
+      "description": "Narayana Murthy shares leadership lessons at SMU Visionary Series as SMU launches 2026 Singapore-India Hackathon",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/narayana-murthy-shares-leadership-lessons-at-smu-visionary-series-as-smu-launches-2026-singapore-india-hackathon/article70375516.ece",
+      "urlToImage": "https://th-i.thgim.com/public/brandhub/z7tely/article70375514.ece/alternates/LANDSCAPE_1200/Mr_Narayana_Murthy_Co_Founder_Infosys_Limited_speaking_Singapore_Management_University.jpg",
+      "publishedAt": "2025-12-09T09:06:43Z",
+      "content": "SINGAPORE,\u00a0Dec. 9, 2025\u00a0/PRNewswire/ -- The Singapore Management University (SMU) welcomed distinguished global tech leader Mr Narayana Murthy to\u00a0its campus on 20 November 2025 for a milestone editio\u2026 [+6583 chars]",
+      "trigger_type": "Product Launch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "GTreasury",
+      "title": "GTreasury Launches GSmart Risk Insights to Turn Complex Exposure Data into Board-Ready Intelligence",
+      "description": "GTreasury\u2019s newest AI capabilities eliminate hours of manual FX and IR analysis, surface critical risks automatically, and create executive summaries for CFOs and treasury teams GTreasury\u2019s newest AI capabilities eliminate hours of manual FX and IR analysis, \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202091/0/en/GTreasury-Launches-GSmart-Risk-Insights-to-Turn-Complex-Exposure-Data-into-Board-Ready-Intelligence.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/dd16f5c3-9319-4c63-9396-5e89eb852763",
+      "publishedAt": "2025-12-09T09:00:00Z",
+      "content": "CHICAGO, Dec. 09, 2025 (GLOBE NEWSWIRE) -- GTreasury\r\n, a Ripple solution delivering adaptable treasury solutions for the Office of the CFO, today launched GSmart Risk Insights\r\n, an AI-powered risk \u2026 [+4956 chars]",
+      "trigger_type": "Product Launch"
     },
     {
       "source": {
@@ -327,72 +509,30 @@
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
+        "name": "Cointelegraph"
       },
-      "author": "Bexback co., LTD",
-      "title": "BexBack Launches 100% Deposit Bonus, No KYC Crypto Trading, and 100x Leverage \u2013 Perfect for Privacy-Focused Traders",
-      "description": "SINGAPORE, Dec. 04, 2025 (GLOBE NEWSWIRE) -- In an era of increasing interest in cryptocurrency and the drive for greater privacy, BexBack\r\n has emerged as a leading platform for traders who want to maximize their returns while maintaining anonymity. The exch\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3200123/0/en/BexBack-Launches-100-Deposit-Bonus-No-KYC-Crypto-Trading-and-100x-Leverage-Perfect-for-Privacy-Focused-Traders.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f47f4d3f-3b6c-4732-930a-6dec4386cb9c",
-      "publishedAt": "2025-12-04T16:42:00Z",
-      "content": "SINGAPORE, Dec. 04, 2025 (GLOBE NEWSWIRE) -- In an era of increasing interest in cryptocurrency and the drive for greater privacy,BexBack\r\n has emerged as a leading platform for traders who want to m\u2026 [+6101 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "Holding(s) in Company",
-      "description": "Endeavour Mining plc (\u201cthe Company\u201d) announces that it received the following notification from Blackrock, Inc of its interests in the Company as at 3 December 2025 TR-1: Standard form for notification of major holdings 1. Issuer Details ISIN GB00BL6K5J42\u00a0Iss\u2026",
-      "url": "https://financialpost.com/globe-newswire/holdings-in-company-43",
-      "urlToImage": null,
-      "publishedAt": "2025-12-04T16:39:39Z",
-      "content": "Endeavour Mining plc (the Company) announces that it received the following notification from Blackrock, Inc of its interests in the Company as at 3 December 2025\r\nTHIS CONTENT IS RESERVED FOR SUBSCR\u2026 [+19408 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Cointelegraph by Martin Young",
+      "title": "A16z Crypto opens office in South Korea as it bets on Asia",
+      "description": "A16z Crypto opened its first Asian office in Seoul, South Korea, led by SungMo Park, citing the region\u2019s dominance in global adoption and onchain activity.",
+      "url": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0b73-b9e5-7009-a37b-18865373128e",
+      "publishedAt": "2025-12-11T04:48:28Z",
+      "content": "Crypto venture capital firm Andreessen Horowitz (a16z) is opening its first Asia-based office in South Korea with plans to expand its portfolio in the region.\r\nThe firm stated that there was a partic\u2026 [+2114 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
+        "name": "Motley Fool Australia"
       },
-      "author": "Endeavour Mining PLC",
-      "title": "Holding(s) in Company",
-      "description": "Endeavour Mining plc (\u201cthe Company\u201d) announces that it received the following notification from Blackrock, Inc of its interests in the Company as at 3 December 2025",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3200121/0/en/Holding-s-in-Company.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
-      "publishedAt": "2025-12-04T16:37:00Z",
-      "content": "Endeavour Mining plc (the Company) announces that it received the following notification from Blackrock, Inc of its interests in the Company as at 3 December 2025\r\nTR-1: Standard form for notificatio\u2026 [+17470 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Craig Hale",
-      "title": "Proton launches new end-to-end encrypted spreadhseets for ultra secure data handling",
-      "description": "Proton just launched a new end-to-end-encrypted spreadsheet software as part of Proton Drive.",
-      "url": "https://www.techradar.com/pro/proton-launches-new-end-to-end-encrypted-spreadhseets-for-ultra-secure-data-handling",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MY9P9W8JaLJe3bxMrphGU6-970-80.jpg",
-      "publishedAt": "2025-12-04T14:43:00Z",
-      "content": "<ul><li>Proton has launched its own E2EE spreadsheet software</li><li>Half of European businesses still rely on cloud-based spreadsheets</li><li>Other Proton Drive, Pass, VPN and Lumo improvements ar\u2026 [+2894 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Diana Shipping Inc. c/o Diana Shipping Services S.A.",
-      "title": "Diana Shipping Inc. Announces Time Charter Contracts for m/v DSI Pollux With Stone Shipping and m/v DSI Andromeda With Western Bulk",
-      "description": "ATHENS, Greece, Dec. 04, 2025 (GLOBE NEWSWIRE) -- Diana Shipping Inc. (NYSE: DSX), (the \u201cCompany\u201d), a global shipping company specializing in the ownership and bareboat charter-in of dry bulk vessels, today announced that, through a separate wholly-owned subs\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199901/10065/en/Diana-Shipping-Inc-Announces-Time-Charter-Contracts-for-m-v-DSI-Pollux-With-Stone-Shipping-and-m-v-DSI-Andromeda-With-Western-Bulk.html",
-      "urlToImage": null,
-      "publishedAt": "2025-12-04T14:20:00Z",
-      "content": "ATHENS, Greece, Dec. 04, 2025 (GLOBE NEWSWIRE) -- Diana Shipping Inc. (NYSE: DSX), (the Company), a global shipping company specializing in the ownership and bareboat charter-in of dry bulk vessels, \u2026 [+6250 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Bernd Struben",
+      "title": "Up 50% in 2025, should you buy Harvey Norman shares before Christmas?",
+      "description": "Two leading investment experts deliver their verdicts on Harvey Norman\u2019s surging shares.\nThe post Up 50% in 2025, should you buy Harvey Norman shares before Christmas? appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/12/11/up-50-in-2025-should-you-buy-harvey-norman-shares-before-christmas/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/08/Woman-shopping-for-TVs-in-electronics-store-5-1200x675.jpg",
+      "publishedAt": "2025-12-11T02:21:43Z",
+      "content": "Harvey Norman Holdings Ltd (ASX: HVN) shares are marching higher today.\r\nShares in the S&amp;P/ASX 200 Index (ASX: XJO) electronics and home furnishings retail stock closed yesterday trading for $7.0\u2026 [+2438 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
@@ -400,139 +540,251 @@
         "name": "The Times of India"
       },
       "author": "ETtech",
-      "title": "Nexus raises $700m fund; OpenAI-Tata partnership",
-      "description": "Nexus Venture Partners closed its eighth fund to widen its AI and software portfolio across India and the US. This and more in today's ETtech Top 5.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/nexus-new-700-million-corpus-openai-woos-tata/articleshow/125767936.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125767936,width-1070,height-580,imgsize-1587869,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2025-12-04T13:37:47Z",
-      "content": "Nexus Venture Partners closed its eighth fund to widen its AI and software portfolio across India and the US. This and more in today's ETtech Top 5.Also in the letter:InMobi's SoftBank buybackAmazon'\u2026 [+7159 chars]",
-      "trigger_type": "Product Launch"
+      "title": "Amazon ups India ante; Swiggy QIP in demand",
+      "description": "Happy Thursday! Amazon is keen on quick commerce as it doubles down on its India bets. This and more in today\u2019s ETtech Morning Dispatch.",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amazon-ups-india-ante-swiggy-qip-in-demand/articleshow/125900595.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125900595,width-1070,height-580,imgsize-1838938,overlay-ettech/editionshow.jpg",
+      "publishedAt": "2025-12-11T01:30:53Z",
+      "content": "Happy Thursday! Amazon is keen on quick commerce as it doubles down on its India bets. This and more in todays ETtech Morning Dispatch.Also in the letter: Meesho makes bank for founders, backers Boat\u2026 [+8048 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Chris Keall",
+      "title": "Kitea Health closes $13m raise, lines up human trials in the US",
+      "description": "Specialist Aussie funds back capital raise.",
+      "url": "https://www.nzherald.co.nz/business/kitea-health-closes-13m-raise-lines-up-human-trials-in-the-us/premium/O3EXTV5CLFHGDBMRRSOJ5QUBWQ/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/UVRND7OTJBE47I4YEUBSMFBXVQ.jpg?auth=d774548219d01347cb73fa0dcd0a97a9586f2e1c737697d2fe6299034b7d5a6e&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-12-10T16:00:00Z",
+      "content": "The most important outcome is that there were no safety issues, Malpas says. \r\nThe primary outcome was that there were no adverse effects.\r\nAfter the first human trial, you usually have to go back an\u2026 [+3722 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Bitpanda Technology Solutions",
-      "title": "Bitpanda Expands into APAC to Accelerate Institutional Adoption of Digital Assets Across the Region",
-      "description": "Singapore, Dec. 04, 2025 (GLOBE NEWSWIRE) -- \r\nBitpanda Technology Solutions (BTS)\r\n, the global leader in digital asset solutions, announced the appointment of Jessica Wu\r\n to lead the expansion into the Asia-Pacific region as part of its global growth strat\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199770/0/en/Bitpanda-Expands-into-APAC-to-Accelerate-Institutional-Adoption-of-Digital-Assets-Across-the-Region.html",
-      "urlToImage": null,
-      "publishedAt": "2025-12-04T13:20:00Z",
-      "content": "<ul><li>Bitpandas B2B Business Bitpanda Technology Solutions launches in APAC following its successful expansion in LATAM, building on its strong leadership in Europe and the UAE</li><li>The company \u2026 [+4329 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Loyaltylobby.com"
-      },
-      "author": "John Ollila",
-      "title": "EXTENDED: ALL Accor+ Explorer Sign Up Offer With 2,000 ALL Bonus Points Through December 31, 2025",
-      "description": "We wrote (read more here) about an unannounced sign-up deal for ALL Accor+ Explorer last month that was supposed to end on November 30th, but we have confirmed with Accor Plus that the sign-up offer with 2,000 bonus points has been extended through December 3\u2026",
-      "url": "https://loyaltylobby.com/2025/12/04/extended-all-accor-explorer-sign-up-offer-with-2000-all-bonus-points-through-december-31-2025/",
-      "urlToImage": "https://loyaltylobby.com/wp-content/uploads/2025/11/ALL-Accor-Explorer-Logo-Card.png",
-      "publishedAt": "2025-12-04T11:46:30Z",
-      "content": "We wrote (read more here) about an unannounced sign-up deal for ALL Accor+ Explorer last month that was supposed to end on November 30th, but we have confirmed with Accor Plus that the sign-up offer \u2026 [+3056 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stratechery.com"
-      },
-      "author": "Ben Thompson",
-      "title": "An Interview with Atlassian CEO Mike Cannon-Brookes About Atlassian and AI",
-      "description": "An interview with Atlassian founder and CEO Mike Cannon-Brookes about building Atlassian and why he is optimistic about AI.",
-      "url": "https://stratechery.com/2025/an-interview-with-atlassian-ceo-mike-cannon-brookes-about-atlassian-and-ai/",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-      "publishedAt": "2025-12-04T11:00:00Z",
-      "content": "Good morning,\r\nThis week\u2019s Stratechery Interview is with Atlassian founder and CEO Mike Cannon-Brookes. Cannon-Brookes and Scott Farquhar whom I interviewed in 2017 founded Atlassian in 2002; their f\u2026 [+73585 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prtimes.jp"
-      },
-      "author": null,
-      "title": "Recustomer\u3001JETRO\u4e3b\u50ac\u300cSoutheast Asia Capital Access Program 2025\u300d\u30d5\u30a1\u30a4\u30ca\u30ea\u30b9\u30c8\u306b\u9078\u51fa",
-      "description": "[Recustomer\u682a\u5f0f\u4f1a\u793e]\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/46039/96/46039-96-60cb8e6bee16ba38f179dfd343bc4172-1999x1125.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-      "url": "https://prtimes.jp/main/html/rd/p/000000096.000046039.html",
-      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/46039/96/46039-96-60cb8e6bee16ba38f179dfd343bc4172-1999x1125.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "publishedAt": "2025-12-04T03:40:36Z",
-      "content": "Recustomer RecustomerJETROSoutheast Asia Capital Access Program 202550125\r\nSoutheast Asia Capital Access Program 2025VC/CVC\r\n1212SGInnovateVertex Ventures SEA&amp;IOpenspace CapitalTNB AuraInsignia V\u2026 [+3982 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Precedence Research",
+      "title": "Trends in Sterile Medical Packaging Market 2025-2035",
+      "description": "As per market analysts at Towards Packaging, the global sterile medical packaging market is expected to grow from USD 78.75 billion in 2026....",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203332/0/en/Trends-in-Sterile-Medical-Packaging-Market-2025-2035.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T15:09:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global\u00a0sterile medical packaging market reached approximately USD 70.91 billion in 2025, with projections suggesting it will climb to USD 182.13 billion \u2026 [+20295 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "ORIC Pharmaceuticals",
-      "title": "ORIC\u00ae Pharmaceuticals Announces Enozertinib (ORIC-114) Late-Breaking Oral Presentations in EGFR Atypical and EGFR exon 20 NSCLC at the ESMO Asia Congress 2025",
-      "description": "Company to host a conference call and webcast on Saturday, December 6, 2025, at 8:00 pm ET Company to host a conference call and webcast on Saturday, December 6, 2025, at 8:00 pm ET",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3199316/0/en/ORIC-Pharmaceuticals-Announces-Enozertinib-ORIC-114-Late-Breaking-Oral-Presentations-in-EGFR-Atypical-and-EGFR-exon-20-NSCLC-at-the-ESMO-Asia-Congress-2025.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/acbc0ad2-7a44-4ee7-b729-ab92d57ffafb",
-      "publishedAt": "2025-12-03T21:01:00Z",
-      "content": "SOUTH SAN FRANCISCO and SAN DIEGO, Dec. 03, 2025 (GLOBE NEWSWIRE) -- ORIC Pharmaceuticals, Inc. (Nasdaq: ORIC), a clinical stage oncology company focused on developing treatments that address mechani\u2026 [+3102 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Precedence Research",
+      "title": "GMP Peptides Market to Reach USD 2.9 Billion by 2034 | CAGR 8.35% Forecast",
+      "description": "The GMP peptides market is primarily driven by the rising prevalence of chronic disorders and advancements in peptide synthesis....",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203319/0/en/GMP-Peptides-Market-to-Reach-USD-2-9-Billion-by-2034-CAGR-8-35-Forecast.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T15:00:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global\u00a0GMP peptides market size is calculated at USD 1.41\u00a0billion in 2025 and is expected to reach around USD 2.9 billion by 2034, growing at a CAGR of 8\u2026 [+18822 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "GlobeNewswire"
       },
-      "author": "Abhijeet Mishra",
-      "title": "Samsung USA hints at a January 1 reveal, but what is it teasing?",
-      "description": "With all the major 2025 flagship launches wrapped up\u2014including the futuristic and elusive Galaxy Z TriFold (it is only coming to a handful of markets)\u2014Samsung seems to be gearing up to tease what\u2019s next. Or at least Samsung USA is. It just posted a short vide\u2026",
-      "url": "https://www.sammobile.com/news/samsung-usa-teases-first-look-january-1/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/03/Samsung-Logo-5.jpg",
-      "publishedAt": "2025-12-03T17:44:05Z",
-      "content": "With all the major 2025 flagship launches wrapped upincluding the futuristic and elusive Galaxy Z TriFold (it is only coming to a handful of markets)Samsung seems to be gearing up to tease whats next\u2026 [+1348 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Precedence Research",
+      "title": "Sustainable Aviation Fuel Market Size to Worth USD 357.41 Billion by 2035 - Exclusive Report by Towards Chemical and Materials",
+      "description": "According to Towards Chemical and Materials Consulting \u2122, The global sustainable aviation fuel market was estimated to be USD 2.31 billion in 2025....",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203255/0/en/Sustainable-Aviation-Fuel-Market-Size-to-Worth-USD-357-41-Billion-by-2035-Exclusive-Report-by-Towards-Chemical-and-Materials.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T14:20:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global sustainable aviation fuel market size\r\n reached at USD 2.31 billion in 2025 and is predicted to increase by USD 3.82 billion in 2026 and is expect\u2026 [+34758 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
         "name": "BusinessLine"
       },
-      "author": "Team Technophile",
-      "title": "Samsung unveils Galaxy Z TriFold with a 10-inch display",
-      "description": "Samsung launches the Galaxy Z TriFold, a foldable smartphone with a dual-folding 10-inch display and powerful features.",
-      "url": "https://www.thehindubusinessline.com/specials/technophile/samsung-unveils-galaxy-z-trifold-with-a-10-inch-display/article70353373.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/j5hxe5/article70354667.ece/alternates/LANDSCAPE_1200/BL0412_Tech_Second_Galaxy-Z-TriFold_Concept.jpg",
-      "publishedAt": "2025-12-03T16:02:44Z",
-      "content": "Samsung Electronics has launched the Galaxy Z TriFold, a foldable smartphone featuring a dual-folding 10-inch display, when completely unfolded. The device is designed to offer both a portable phone \u2026 [+2978 chars]",
-      "trigger_type": "Product Launch"
+      "author": null,
+      "title": "Matrixport Appoints Dominik Oggenfuss as Chief Executive Officer of Matrixport Asset Management AG",
+      "description": "Matrixport Appoints Dominik Oggenfuss as Chief Executive Officer of Matrixport Asset Management AG",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/matrixport-appoints-dominik-oggenfuss-as-chief-executive-officer-of-matrixport-asset-management-ag/article70380352.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/mu4355/article70380344.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-10%20173227.png",
+      "publishedAt": "2025-12-10T13:54:50Z",
+      "content": "ZURICH,\u00a0Dec. 10, 2025\u00a0/PRNewswire/ --\u00a0Matrixport Group\u00a0is pleased to announce the appointment of\u00a0Dominik Oggenfuss\u00a0as\u00a0Chief Executive Officer\u00a0of\u00a0Matrixport Asset Management AG, effective today.\r\nDomi\u2026 [+5537 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Medical Devices Market Size Worth USD 1,209.42 Bn by 2035 Fueled by Advances in Diagnostic Technologies",
+      "description": "According to Precedence Research, the global medical devices market size will grow from USD 678.88 billion in 2025 to nearly USD 1,209.42 billion by 2035, with an expected CAGR of 5.94% from 2026 to 2035. According to Precedence Research, the global medical d\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203178/0/en/Medical-Devices-Market-Size-Worth-USD-1-209-42-Bn-by-2035-Fueled-by-Advances-in-Diagnostic-Technologies.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T13:45:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global medical devices market size is expected to be worth over USD 1,209.42 billion by 2035, increasing from USD 719.61 billion in 2026, growing at a st\u2026 [+31551 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just-food.com"
+      },
+      "author": "Kuldeep Jha",
+      "title": "Dried-fruits firm Dellia buys supplier Kirirom",
+      "description": "Dellia said the acquisition would increase its production capacity to \u201ctake out the full potential in the Nordics and further expansion in Europe and China\u201d.",
+      "url": "https://www.just-food.com/news/dellia-buys-supplier-kirirom/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ep2FQmIBht5cEAPckBHUbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/just_food_692/13483dcb7685f2927387ab8f8d836e62",
+      "publishedAt": "2025-12-10T13:08:22Z",
+      "content": "Norwegian consumer goods company Dellia Group has agreed to buy Kirirom Food Production, its main supplier of dried fruit products.\r\nThe transaction values the Cambodian business at an enterprise val\u2026 [+4891 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Mimecast Limited",
+      "title": "Mimecast Expands APAC Investment to Accelerate Human Risk Management Growth",
+      "description": "New Singapore leader, Regional HQ, and data center will strengthen operations and tackle emerging AI-driven risks for businesses New Singapore leader, Regional HQ, and data center will strengthen operations and tackle emerging AI-driven risks for businesses",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203027/0/en/Mimecast-Expands-APAC-Investment-to-Accelerate-Human-Risk-Management-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e70e5958-722e-48ce-80de-a41f43d0bb5f",
+      "publishedAt": "2025-12-10T11:44:00Z",
+      "content": "SINGAPORE, Dec. 10, 2025 (GLOBE NEWSWIRE) -- Mimecast, a global leader in cybersecurity, today announced significant new investments in Singapore to further the companys presence in the Asia-Pacific \u2026 [+5853 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Cocoa Ingredients Market Size to Exceed USD 20.70 Billion by 2034 | Towards FnB",
+      "description": "According to Towards FnB, the global cocoa ingredients market size is calculated at USD 13.81 billion in 2025 and is anticipated to hit USD 20.70 billion by 2034, reflecting at a CAGR of 4.6% from 2025 to 2034. The market\u2019s upward trajectory is driven by risi\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203025/0/en/Cocoa-Ingredients-Market-Size-to-Exceed-USD-20-70-Billion-by-2034-Towards-FnB.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T11:40:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global cocoa ingredients market size was valued at USD 13.20 billion in 2024 and is predicted to increase from USD 13.81 billion in 2025 to reach around \u2026 [+30686 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Non-Dairy Butter Market to Experience Unstoppable Growth at a CAGR of 13.9% | Towards FnB",
+      "description": "According to Towards FnB, the global non-dairy butter market size is evaluated at USD 1.23 billion in 2025 and is anticipated to surge USD 3.97 billion by 2034, reflecting at an impressive CAGR of 13.9% from 2025 to 2034. This growth is fueled by the rising d\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203014/0/en/Non-Dairy-Butter-Market-to-Experience-Unstoppable-Growth-at-a-CAGR-of-13-9-Towards-FnB.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-10T11:27:00Z",
+      "content": "Ottawa, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The global non-dairy butter market size stood at USD 1.08 billion in 2024 and is predicted to increase from USD 1.23 billion in 2025 to reach around USD 3.97\u2026 [+28275 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Global eSIM Market to Surge: Projected to Reach $5.8 Billion by 2030 with 29.1% CAGR",
+      "description": "The eSIM market presents significant opportunities driven by IoT expansion, smart city growth, and demand for flexible connectivity. It benefits from technological standardization, security features, and miniaturization, propelling its adoption in smartphones\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3202952/28124/en/Global-eSIM-Market-to-Surge-Projected-to-Reach-5-8-Billion-by-2030-with-29-1-CAGR.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-12-10T09:05:00Z",
+      "content": "Dublin, Dec. 10, 2025 (GLOBE NEWSWIRE) -- The \"eSIM - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for eSIM was estimated at US$1.2 Billio\u2026 [+6726 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": null,
-      "title": "The Sanchar Saathi U-turn; Meesho IPO off to a flying start",
-      "description": "In a volte-face, the telecom ministry has withdrawn the controversial directive mandating that Sanchar Saathi be preloaded on new smartphones. This and more in today\u2019s ETtech Top 5.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/the-sanchar-saathi-u-turn-meesho-ipo-off-to-a-flying-start/articleshow/125744569.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125744569,width-1070,height-580,imgsize-49840,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2025-12-03T13:29:51Z",
-      "content": "In a volte-face, the telecom ministry has withdrawn the controversial directive mandating that Sanchar Saathi be preloaded on new smartphones. This and more in todays ETtech Top 5.Also in the letter:\u2026 [+8038 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Reuters",
+      "title": "How China Inc is marching into Vietnam amid US tariffs",
+      "description": "While the Southeast Asian nation opened its economy to U.S. multinationals and technology after Washington lifted its embargo in the 1990s, it stayed cautious over China, after their 1979 war and disputes over South China Sea boundaries. Now Beijing's influen\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/business/how-china-inc-is-marching-into-vietnam-amid-us-tariffs/articleshow/125881626.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125881731,width-1200,height-630,imgsize-100410,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-10T03:45:27Z",
+      "content": "Chinese firms are expanding in Vietnam, leading investment inflows and sending record shipments to Hanoi in defiance of U.S. calls for decoupling, as the Communist neighbours beef up ties. Recent ste\u2026 [+4863 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
-        "name": "Electronicpaymentsinternational.com"
+        "name": "24/7 Wall St."
       },
-      "author": "GlobalData",
-      "title": "Razorpay gains payment aggregator-cross border licence from India\u2019s RBI",
-      "description": "The new licence introduces an additional regulatory requirement to Razorpay\u2019s payments infrastructure.",
-      "url": "https://www.electronicpaymentsinternational.com/news/razorpay-rbi/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.qC6pfNxd2IcTarWNrbCew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/electronic_payments_938/de8d331b5799cd79d6e9aad74fe94935",
-      "publishedAt": "2025-12-03T13:01:44Z",
-      "content": "Razorpay has secured a Payment Aggregator-Cross Border licence from the Reserve Bank of India (RBI).\r\nThis approval allows the fintech firm to conduct inward as well as outward cross-border transacti\u2026 [+2603 chars]",
-      "trigger_type": "Product Launch"
+      "author": "John Seetoo",
+      "title": "2 High Yield ETFs To Buy Before 2026",
+      "description": "When it comes to income based investments, businesses predicated on regular, monthly payments generated by tangible assets have historically been the most...",
+      "url": "https://247wallst.com/investing/2025/12/09/2-high-yield-etfs-to-buy-before-2026/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jVTVmjKCckKsKATr06V.xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/b5151f7085b83880075070d7676e3292",
+      "publishedAt": "2025-12-09T16:18:05Z",
+      "content": "Neilson Barnard / Getty Images\r\n<ul><li>Global X SuperDividend REIT ETF yields 7.96% monthly by holding 30 high-yielding REITs across global markets.\r\n</li><li>Westwood Salient Enhanced Midstream Inc\u2026 [+7690 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Commercial Observer"
+      },
+      "author": "Tacitelli",
+      "title": "Diald AI Secures $3.75M Early-Stage Funding",
+      "description": "Diald AI, a due diligence and underwriting platform powered by artificial intelligence, announced Tuesday that it has secured $3.75 million in early-stage funding to expand in the United States and Japan. Institutional investors, including Singapore-based ven\u2026",
+      "url": "http://commercialobserver.com/2025/12/diald-ai-early-stage-funding/",
+      "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/12/Steven-Song-arrows.jpg?quality=80&w=1200&h=630&crop=1",
+      "publishedAt": "2025-12-09T14:00:07Z",
+      "content": "Diald AI, a due diligence and underwriting platform powered by artificial intelligence, announced Tuesday that it has secured $3.75 million in early-stage funding to expand in the United States and J\u2026 [+3145 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Real-World Data (RWD) Market Size Worth USD 6.37 Bn by 2034 Driven by AI Adoption, Precision Medicine, and Drug Development Demand",
+      "description": "According to Precedence Research, the global real-world data (RWD)market size will grow from USD 1.88 billion in 2025 to nearly USD 6.37 billion by 2034, with an expected CAGR of 14.54% from 2025 to 2034. According to Precedence Research, the global real-worl\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202262/0/en/Real-World-Data-RWD-Market-Size-Worth-USD-6-37-Bn-by-2034-Driven-by-AI-Adoption-Precision-Medicine-and-Drug-Development-Demand.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-12-09T12:41:00Z",
+      "content": "Ottawa, Dec. 09, 2025 (GLOBE NEWSWIRE) -- The global real-world data (RWD) market size is expected to be worth over USD 6.37 billion by 2034, increasing from USD 2.15 billion in 2026, growing at a st\u2026 [+20693 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Insider One",
+      "title": "Insider Becomes Insider One to Make Marketing and Customer Engagement Teams Unstoppable",
+      "description": "Insider becomes Insider One, marking The Great Reset in MarTech and the only platform built to make marketing and customer engagement teams unstoppable...",
+      "url": "https://www.globenewswire.com/news-release/2025/12/09/3202156/0/en/Insider-Becomes-Insider-One-to-Make-Marketing-and-Customer-Engagement-Teams-Unstoppable.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ff251733-a198-46c2-b858-545e88b26458",
+      "publishedAt": "2025-12-09T11:00:00Z",
+      "content": "NEW YORK, Dec. 09, 2025 (GLOBE NEWSWIRE) -- Insider One\r\n, the global leader in customer engagement, today announced its new name and visual identity as it rebrands from Insider. This moment signals \u2026 [+10372 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETtech",
+      "title": "Apple Fitness+ to debut in India on Dec 15: Here\u2019s all you need to know",
+      "description": "Apple will launch its Fitness+ service in India on December 15 as part of its biggest global expansion yet. The platform offers personalised workouts, meditation tools and curated fitness plans, with subscription and free trial options. The rollout comes duri\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/technology/apple-fitness-to-debut-in-india-on-dec-15-heres-all-you-need-to-know/articleshow/125867693.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-466745,resizemode-75,msid-125867693/tech/technology/apple-fitness-to-debut-in-india-on-dec-15-heres-all-you-need-to-know.jpg",
+      "publishedAt": "2025-12-09T10:28:48Z",
+      "content": "Apple is set to launch its Fitness+ service in India on December 15, marking its biggest rollout since the platform debuted five years ago, the company said in a blog post.From seeing real-time, pers\u2026 [+2771 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
@@ -540,55 +792,41 @@
         "name": "BusinessLine"
       },
       "author": null,
-      "title": "AppliedHE Launches First-Ever Asia Ranking to Recognise Both Public and Private Universities \u2013 with Student Voices at the Core",
-      "description": "AppliedHE Launches First-Ever Asia Ranking to Recognise Both Public and Private Universities \u2013 with Student Voices at the Core",
-      "url": "https://www.thehindubusinessline.com/brandhub/appliedhe-launches-first-ever-asia-ranking-to-recognise-both-public-and-private-universities-with-student-voices-at-the-core/article70352961.ece",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/q9oqte/article70352939.ece/alternates/LANDSCAPE_1200/Photo.jpg",
-      "publishedAt": "2025-12-03T10:47:55Z",
-      "content": "KUALA LUMPUR, Malaysia,\u00a0Dec. 3, 2025\u00a0/PRNewswire/ -- AppliedHE today announced the results of the inaugural AppliedHE Public &amp; Private University Rankings: ALL ASIA, the first Asia-wide universit\u2026 [+6910 chars]",
-      "trigger_type": "Product Launch"
+      "title": "Singapore\u2019s\u00a0MetaComp Raises US$22 Million Pre-A to Scale a Web2.5 Fiat/Stablecoin Hybrid Payment Network for Cross-Border Payments",
+      "description": "Singapore\u2019s\u00a0MetaComp Raises US$22 Million Pre-A to Scale a Web2.5 Fiat/Stablecoin Hybrid Payment Network for Cross-Border Payments",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/singaporesmetacomp-raises-us22-million-pre-a-to-scale-a-web25-fiatstablecoin-hybrid-payment-network-for-cross-border-payments/article70375251.ece",
+      "urlToImage": "https://th-i.thgim.com/public/brandhub/b08hz7/article70375245.ece/alternates/LANDSCAPE_1200/MetaComp_raised_USD_22_million_in_its_Pre_A_funding_round.jpg",
+      "publishedAt": "2025-12-09T08:55:11Z",
+      "content": "SINGAPORE,\u00a0Dec. 9, 2025\u00a0/PRNewswire/ -- MetaComp Pte. Ltd. (MetaComp), Singapores leading licensed stablecoin cross-border payments and treasury management service provider, today announced it has ra\u2026 [+7829 chars]",
+      "trigger_type": "Expansion"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Angelica Ang",
+      "title": "Australia will start banning kids from social media this week\u2014and Malaysia is getting ready to do the same",
+      "description": "Other countries are considering less drastic ways to control teenagers' social media use. On Nov. 30, Singapore said it would ban the use of smartphones on secondary school campuses.",
+      "url": "https://fortune.com/2025/12/09/australia-will-start-banning-kids-from-social-media-this-week-and-malaysia-is-getting-ready-to-do-the-same/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1525301733.jpg?resize=1200,600",
+      "publishedAt": "2025-12-09T06:32:44Z",
+      "content": "Starting this Wednesday, many Australian teens will find it near impossible to access social media. Thats because, as of Dec. 10, social media platforms like TikTok and Instagram must bar those under\u2026 [+5605 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
         "id": null,
-        "name": "TalkAndroid"
+        "name": "India Today"
       },
-      "author": "Irene Okpanachi",
-      "title": "Samsung Officially Announces Galaxy Z TriFold We Thought Would Never Happen",
-      "description": "It's actually happening. Samsung's first three-part monster phone is coming on December 12.",
-      "url": "https://www.talkandroid.com/518913-galaxy-z-trifold-announcement/",
-      "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2025/12/Galaxy-Z-TriFold-thinness.jpg",
-      "publishedAt": "2025-12-03T10:32:05Z",
-      "content": "Youve probably heard this a lot recently, but Samsungs first tri-folding phone has been rumored for months. A bunch of specifications leaked ahead of time, with a few confirmed through certifications\u2026 [+3010 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BeInCrypto"
-      },
-      "author": "Arthur Firstov",
-      "title": "Stablecoins in the Wild: When Fintech Discovers Programmable Money",
-      "description": "The digital asset market is maturing. Learn how stablecoins are becoming the new payment layer, driving convergence between DeFi and Fintech",
-      "url": "https://beincrypto.com/stablecoins-fintech-programmable-money/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TcL0qpek_lqbscPuGj2xpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTk-/https://media.zenfs.com/en/beincrypto_us_662/c1326c86d997259474d1831e2bd4d7b9",
-      "publishedAt": "2025-12-03T07:41:28Z",
-      "content": "Photo by BeInCrypto\r\nThis article is authored by Arthur Firstov, the Chief Business Officer at Mercuryo, a global leader in crypto payments infrastructure. Arthur is a recognized voice on stablecoins\u2026 [+7798 chars]",
-      "trigger_type": "Product Launch"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sspai.me"
-      },
-      "author": "kiwi",
-      "title": "SSPAI Morning Brief: Samsung Unveils Galaxy Z TriFold, Sony Releases Alpha 7 V, and More",
-      "description": "Morning Brief Samsung Releases Galaxy Z TriFold On December 2, Samsung officially unveiled its first tri-fold smartphone, the Galaxy Z TriFold. The device uses an inward-folding design, with both sides folding toward each other to protect the main display. To\u2026",
-      "url": "https://sspai.me/post/sspai-morning-brief-samsung-unveils-galaxy-z-trifold-sony-releases-alpha-7-v-and-more",
-      "urlToImage": "https://sspai.me/wp-content/uploads/2025/11/1d59c680-659f-d63f-5ef7-852ae972c57e-1.png",
-      "publishedAt": "2025-12-03T03:10:12Z",
-      "content": "Morning Brief\r\n<ol><li>Samsung Releases Galaxy Z TriFold</li><li>Sony Releases Alpha 7 V</li><li>Apple Music, Amazon Music, and YouTube Launch Annual Recaps</li><li>XREAL Announces New AR Glasses: XR\u2026 [+9876 chars]",
-      "trigger_type": "Product Launch"
+      "author": "Bhavna Agarwal",
+      "title": "India a powerful melting pot global majors are watching: HYBE Chairman Bang Si-Hyuk",
+      "description": "HYBE the South Korean label behind BTS TXT SEVENTEEN and ENHYPEN has formally launched HYBE INDIA this year Chairman Bang Si-Hyuk shares the company039s vision for India in an India Exclusive interview",
+      "url": "https://www.indiatoday.in/entertainment/music/story/india-a-powerful-melting-pot-global-majors-are-watching-hybe-chairman-bang-si-hyuk-2833024-2025-12-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/hybe-chairman-bang-si-hyuk-maps-out-strategy-for-hybe-india-in-an-india-exclusive-interview-credits-090434355-16x9_0.jpeg?VersionId=Mx9avgQWDnQFjfbpSxqI5PmQxJJ_tBpS",
+      "publishedAt": "2025-12-09T05:54:18Z",
+      "content": "When HYBE, the South Korean powerhouse behind BTS, TXT, SEVENTEEN, ENHYPEN, LE SSERAFIM and a rapidly expanding portfolio of global labels, formally launched HYBE INDIA this year, it wasn\u2019t just anot\u2026 [+12930 chars]",
+      "trigger_type": "Expansion"
     },
     {
       "source": {
@@ -1162,580 +1400,6 @@
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-206604,resizemode-75,msid-125772512/tech/technology/data-security-firm-cohesity-gets-ready-for-a-1-billion-india-play.jpg",
       "publishedAt": "2025-12-05T00:30:00Z",
       "content": "Softbank-backed data security firm Cohesity is planning a $1 billion investment in India over five years, Sanjay Poonen, chief executive and president, said, as he inaugurated the companys new Bengal\u2026 [+2012 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Abrar Al-Heeti",
-      "title": "A New Era of Foldables: Samsung's Galaxy Z TriFold Is Coming to the US Early Next Year",
-      "description": "This triple-display foldable will first arrive in Korea later this month.",
-      "url": "https://www.cnet.com/tech/mobile/a-new-era-of-foldables-samsungs-galaxy-z-trifold-is-coming-to-the-us-early-next-year/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5ee700de6a16ccb18eb050c11c68b00d68521eea/hub/2025/12/01/aba86746-7b12-4830-9749-b35ba8b31677/image-30.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-12-04T20:47:00Z",
-      "content": "After months of teasing a triple-display foldable phone, Samsung is gearing up to launch what it's calling the Galaxy Z TriFold -- because\u00a0foldables\u00a0with just one hinge are so last year.\u00a0\r\nThe phone \u2026 [+4986 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "admin",
-      "title": "How all of Alexis\u2019 nightingales got back together (did you miss them?), what M.M. says and what PASOK says with the \u201cDemocratic Forces,\u201d Nikitas and the\u2026 rose to the flower",
-      "description": "///\nThe post How all of Alexis\u2019 nightingales got back together (did you miss them?), what M.M. says and what PASOK says with the \u201cDemocratic Forces,\u201d Nikitas and the\u2026 rose to the flower appeared first on ProtoThema English.",
-      "url": "https://en.protothema.gr/2025/12/04/how-all-of-alexis-nightingales-got-back-together-did-you-miss-them-what-m-m-says-and-what-pasok-says-with-the-democratic-forces-nikitas-and-the-rose-to-the-fl/",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
-      "publishedAt": "2025-12-04T11:56:16Z",
-      "content": "Greetings. I told you about Alexis: hes their leader, what did they need two years of wandering around for? For them (the Syriza crowd), hes what Andreas was for the true, dyed-in-the-wool Pasok folk\u2026 [+13256 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Week Magazine"
-      },
-      "author": "theweekonlineeditorsuk@futurenet.com (The Week UK) , The Week UK",
-      "title": "The rapid-fire brilliance of Tom Stoppard",
-      "description": "The 88-year-old was a playwright of dazzling wit and complex ideas",
-      "url": "https://theweek.com/culture-life/film/tom-stoppard-obituary",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6DE2nqBFmpib6T34EgHJx8-2000-80.jpg",
-      "publishedAt": "2025-12-04T11:20:04Z",
-      "content": "Sir Tom Stoppard, who has died aged 88, \u201cwrote plays of dazzling language, intricate wit and dependably intelligent characterisation that touched on everything from quantum physics and landscape gard\u2026 [+7317 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Nutraceutical Excipient Market Size to Exceed USD 9.42 Billion by 2034 | Towards FnB",
-      "description": "According to Towards FnB, the global nutraceutical excipient market size is evaluated at USD 4.87 billion in 2025 and is anticipated to surge USD 9.42 billion by 2034, expanding at a CAGR of 7.65% from 2025 to 2034. This surge is driven by the rising consumer\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199586/0/en/Nutraceutical-Excipient-Market-Size-to-Exceed-USD-9-42-Billion-by-2034-Towards-FnB.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-12-04T11:01:00Z",
-      "content": "Ottawa, Dec. 04, 2025 (GLOBE NEWSWIRE) -- The global nutraceutical excipient market size stood at USD 4.52 billion in 2024 and is predicted to increase from USD 4.87 billion in 2025 to reach around U\u2026 [+31973 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Smartworks leases 1.68 lakh sq ft office space to a global IT services firm in Kolkata",
-      "description": "Realty firm Smartworks Coworking Spaces Ltd has provided on lease around 1.68 lakh sq ft office spaces in Kolkata to a global IT services firm.",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/smartworks-leases-1-68-lakh-sq-ft-office-space-to-a-global-it-services-firm-in-kolkata/articleshow/125764979.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125764979,width-1200,height-630,imgsize-68296,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2025-12-04T10:42:20Z",
-      "content": "Realty firm Smartworks Coworking Spaces Ltd has provided on lease around 1.68 lakh sq ft office spaces in Kolkata to a global IT services firm.Smartworks, which got listed on the stock exchanges rece\u2026 [+1107 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "BL Chennai Bureau",
-      "title": "Deep tech start-up Planys Technologies\u00a0raises \u20b9100 crore for global expansion and launch of defence arm",
-      "description": "Planys Technologies secures \u20b9100 crore for global expansion and defence arm, planning a UUV production facility in Chennai.",
-      "url": "https://www.thehindubusinessline.com/info-tech/deep-tech-start-up-planys-technologiesraises-100-crore-for-global-expansion-and-launch-of-defence-arm/article70357133.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/1fgvw0/article70357154.ece/alternates/LANDSCAPE_1200/Planys%20Founders%20with%20Ashish.png",
-      "publishedAt": "2025-12-04T10:17:58Z",
-      "content": "Planys Technologies, a deep-tech start-up in the underwater robotics and advanced inspection solutions space, has raised 100 crore in primary funding led by investors Ashish Kacholia and Lashit Sangh\u2026 [+2640 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "BL Chennai Bureau",
-      "title": "Deep tech start-up Planys Technologies\u00a0raises \u20b9100 crore for global expansion and launch of defence arm",
-      "description": "Planys Technologies secures \u20b9100 crore for global expansion and defence arm, planning a UUV production facility in Chennai.",
-      "url": "https://www.thehindubusinessline.com/news/deep-tech-start-up-planys-technologiesraises-100-crore-for-global-expansion-and-launch-of-defence-arm/article70357133.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/1fgvw0/article70357154.ece/alternates/LANDSCAPE_1200/Planys%20Founders%20with%20Ashish.png",
-      "publishedAt": "2025-12-04T10:17:58Z",
-      "content": "Planys Technologies, a deep-tech start-up in the underwater robotics and advanced inspection solutions space, has raised 100 crore in primary funding led by investors Ashish Kacholia and Lashit Sangh\u2026 [+2640 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "WeRide Inc.",
-      "title": "WeRide Attracts Public Investments as Top Funds Back Its Autonomous Mobility Growth",
-      "description": "WeRide has attracted investment from ARK Invest, a leading investment firm, which acquired 858,295 WeRide American Depositary Shares over three days.......",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199566/0/en/WeRide-Attracts-Public-Investments-as-Top-Funds-Back-Its-Autonomous-Mobility-Growth.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/5fb40e0d-4e0c-4911-8354-b3b1bd37c4cd",
-      "publishedAt": "2025-12-04T10:14:00Z",
-      "content": "<ul><li>ARK Invest,a leading investment firm managed by Cathie Wood, acquired a total of 858,295 WeRide American Depositary Shares (ADSs) from public markets over the past three trading days, indicat\u2026 [+7297 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lithub.com"
-      },
-      "author": "Lucy Mercer and Livia Franchini",
-      "title": "Life-Giving, Imaginative and Underfunded: Small Press Publishers in Crisis",
-      "description": "A recent letter co-written and signed by small press publishers has highlighted the significant pressures they face, threatening them with closure and potentially damaging the literary ecosystem irreparably. Here, Jack Thompson (Cipher Press), Jess Chandler (\u2026",
-      "url": "https://lithub.com/life-giving-imaginative-and-underfunded-small-press-publishers-in-crisis/",
-      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2025/11/typesetting.png",
-      "publishedAt": "2025-12-04T09:59:56Z",
-      "content": "A recent letter co-written and signed by small press publishers has highlighted the significant pressures they face, threatening them with closure and potentially damaging the literary ecosystem irre\u2026 [+35943 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Paints and Coatings Market Size to Hit USD 348.04 Bn by 2034",
-      "description": "The paints and coatings market size is calculated at USD 222.24 bn in 2025 and is expected to reach USD 348.04 bn by 2034, growing at a CAGR of 5.11%.......",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199549/0/en/Paints-and-Coatings-Market-Size-to-Hit-USD-348-04-Bn-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-12-04T09:30:00Z",
-      "content": "Ottawa, Dec. 04, 2025 (GLOBE NEWSWIRE) -- The global\u00a0paints and coatings market size\r\n reached at USD 222.24 billion in 2025 and is predicted to increase by USD 233.60 billion in 2026 and is expected\u2026 [+24456 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "etaily",
-      "title": "Etaily lands strategic investment from Japan\u2019s SMBC - bringing total funding to $24M for Social Commerce enablement platform",
-      "description": "etaily, the digital-native retail platform in the Philippines, is announcing a strategic investment led by Japan\u2019s SMBC.......",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199529/0/en/Etaily-lands-strategic-investment-from-Japan-s-SMBC-bringing-total-funding-to-24M-for-Social-Commerce-enablement-platform.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/55f2150e-2a20-4641-a9dc-d2c986791ed3",
-      "publishedAt": "2025-12-04T09:00:00Z",
-      "content": "Manila, Dec. 04, 2025 (GLOBE NEWSWIRE) -- etaily, the Philippines digital-native retail platform, has secured new strategic investments led by Japans Sumitomo Mitsui Banking Corporation (SMBC), throu\u2026 [+6038 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "DAYONE DATA CENTERS SINGAPORE PTE. LTD.",
-      "title": "DayOne Secures Up to \u20ac1 Billion Mezzanine Financing Facility to Accelerate Finland Platform and Global Expansion",
-      "description": "DayOne has secured a mezzanine financing facility of \u20ac500 million, expandable up to \u20ac1 billion, from Brookfield and a sovereign investor.......",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199522/0/en/DayOne-Secures-Up-to-1-Billion-Mezzanine-Financing-Facility-to-Accelerate-Finland-Platform-and-Global-Expansion.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/cf126ddf-1cf7-4749-97e9-ff16f5f2c9c9",
-      "publishedAt": "2025-12-04T08:29:00Z",
-      "content": "SINGAPORE, Dec. 04, 2025 (GLOBE NEWSWIRE) -- DayOne Data Centers, a Singapore-headquartered data center developer and operator, today announced that it has secured a mezzanine financing facility of 5\u2026 [+3797 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ambcrypto.com"
-      },
-      "author": "Ishika Kumari",
-      "title": "Binance\u2019s path ahead: What a \u2018dual \u2018leadership\u2019 era can look like",
-      "description": "Yi He joins Richard Teng to formulate Binance's future.",
-      "url": "https://ambcrypto.com/?p=551081",
-      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/12/Yi-He-joins-Richard-Teng-1000x600.webp",
-      "publishedAt": "2025-12-04T08:00:02Z",
-      "content": "Binance has named co-founder Yi He as its new Co-CEO.\r\nBy elevating a trusted longtime executive, Binance is shifting its focus from pure hyper-growth to a more balanced approach that emphasizes cust\u2026 [+3068 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "UP Fintech Holding Limited",
-      "title": "UP Fintech Holding Limited Reports Unaudited Third Quarter 2025 Financial Results",
-      "description": "SINGAPORE, Dec.  04, 2025  (GLOBE NEWSWIRE) -- UP Fintech Holding Limited (NASDAQ: TIGR) (\u201cUP Fintech\u201d or the \u201cCompany\u201d), a leading online...",
-      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199516/0/en/UP-Fintech-Holding-Limited-Reports-Unaudited-Third-Quarter-2025-Financial-Results.html",
-      "urlToImage": null,
-      "publishedAt": "2025-12-04T08:00:00Z",
-      "content": "SINGAPORE, Dec. 04, 2025 (GLOBE NEWSWIRE) -- UP Fintech Holding Limited (NASDAQ: TIGR) (UP Fintech or the Company), a leading online brokerage firm focusing on global investors, today announced its u\u2026 [+40483 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Priyamvada C, Sneha Shah",
-      "title": "Udaan in talks to sell minority stake in its NBFC arm",
-      "description": "The moves come on the back of a larger restructuring plan as Udaan looks to streamline costs, reduce burn and improve unit economics to free up more cash ahead of a potential IPO next year",
-      "url": "https://www.livemint.com/companies/start-ups/udaan-nbfc-stake-sale-udaan-capital-restructuring-hiveloop-capital-udaan-ipo-11764820935155.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/04/1600x900/logo/2-0-1404858055-hires--1--0_1679755955444_1764831798772.jpg",
-      "publishedAt": "2025-12-04T07:26:06Z",
-      "content": "Mumbai: Udaan has initiated a process to sell a minority stake in its non-banking financial entity as the business-to-business (B2B) e-commerce platform looks to monetize assets while navigating a br\u2026 [+4997 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Sweet gains for markets amid sour job signals",
-      "description": "Remember, what looks like a catalyst for portfolios in the short term can mask economic weakness in the longer term if job losses continue.",
-      "url": "https://www.cnbc.com/2025/12/04/cnbc-daily-open-sweet-gains-for-markets-amid-sour-job-signals.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108235962-1764775162592-gettyimages-2249102965-AFP_86YD9ML.jpeg?v=1764775238&w=1920&h=1080",
-      "publishedAt": "2025-12-04T07:19:06Z",
-      "content": "Traders work on the floor of the New York Stock Exchange (NYSE) after the opening bell in New York on December 3, 2025. \r\nAfter shaking off some of the weakness at the start of the month, markets see\u2026 [+2910 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "PR Wire",
-      "title": "Noah Reports Q3 2025: Solid Overseas AUA/AUM Growth, Global Booking Center Network Completed, and Full AI Integration",
-      "description": "Noah Holdings Limited (&quot;Noah&quot; or the &quot;Company&quot;) (NYSE: NOAH and HKEX: 6686), a leading and pioneer wealth management service provider ...",
-      "url": "https://en.antaranews.com/news/395026/noah-reports-q3-2025-solid-overseas-aua-aum-growth-global-booking-center-network-completed-and-full-ai-integration",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/03/17/cision-fix_4.jpg",
-      "publishedAt": "2025-12-04T06:55:21Z",
-      "content": "<ul><li>Steady overseas AUM and AUA growth, with the overseas business emerging as the core engine of incremental momentum.</li><li>AI enters the Company's fullchain operational phase, establishing i\u2026 [+8634 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "Vrathik Jain",
-      "title": "All You Need To Know Going Into Trade On Thursday",
-      "description": "The benchmark stock market indices fell for a fourth day straight with Nifty slipping below 26,000 mark to close 0.18% lower at 25986. While the Sensex settled flat at 85106.81.  Nifty December futures down to 26,142 at a premium of 156 points. Nifty December\u2026",
-      "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-december-4-2025",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2022-06%2F624c847c-ede2-4bf9-b9ee-fdb620c6aa23%2FMultiple_screen_displaying_financial_data__charts__stock_figures___Source_freepik_.jpg?rect=0%2C343%2C5180%2C2720&w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-12-04T00:30:00Z",
-      "content": "<li>Asian Granito India:\u00a0Board approved the proposal to buy 26% stake in Allomex steel.\r\n</li><li>Eris Lifesciences:\u00a0Company expects sharp EPS turnaround from FY26. Total Rs 380400 crore capex over n\u2026 [+3875 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool Australia"
-      },
-      "author": "Tristan Harrison",
-      "title": "2 ASX growth shares to buy now while they're on sale",
-      "description": "These businesses are trading too cheaply, in my opinion. \nThe post 2 ASX growth shares to buy now while they're on sale appeared first on The Motley Fool Australia.",
-      "url": "https://www.fool.com.au/2025/12/04/2-asx-growth-shares-to-buy-now-while-theyre-on-sale/",
-      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/02/up-7-16.9-1200x675.jpg",
-      "publishedAt": "2025-12-03T19:14:26Z",
-      "content": "Recent share market volatility has led to multiple ASX growth shares dropping significantly in value, giving investors an opportunity to pick them up for a much lower price.\r\nBuying at a lower price \u2026 [+2593 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Insulin Analog Market Forecasting USD 25.29 Billion Valuation by 2034",
-      "description": "The market expansion is driven by advances in analog formulation and delivery technologies. North America leads the market due to rising diabetes rates.",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3199137/0/en/Insulin-Analog-Market-Forecasting-USD-25-29-Billion-Valuation-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-12-03T16:00:00Z",
-      "content": "Ottawa, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The global\u00a0insulin analog market size is calculated at USD 17.68\u00a0billion in 2025 and is expected to reach around USD 25.29 billion by 2034, growing at a CAGR\u2026 [+17081 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelica Ballesteros",
-      "title": "TMC the metals company Inc (TMC) Soars 17.7% as Countries Join Forces to Ramp up Critical Minerals Production",
-      "description": "We recently published 10 Stocks Stealing the Spotlight Early as Christmas Looms. TMC the metals company Inc (NASDAQ:TMC) is one of the top performers on...",
-      "url": "https://finance.yahoo.com/news/tmc-metals-company-inc-tmc-154237857.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/C19uSpR4RpeNxP9hPvGv8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/insidermonkey.com/1d21b59f690aed17cf0b05d09f67faac",
-      "publishedAt": "2025-12-03T15:42:37Z",
-      "content": "We recently published 10 Stocks Stealing the Spotlight Early as Christmas Looms. TMC the metals company Inc (NASDAQ:TMC) is one of the top performers on Tuesday.\r\nTMC the metals company soared by 17.\u2026 [+1934 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "PR Wire",
-      "title": "Digital Realty and BW Digital Partner to Support Expansion of Cross-Border Connectivity Between Singapore and Batam",
-      "description": "Digital Realty, the largest global provider of cloud- and carrier-neutral data centre, colocation, and interconnection solutions, today announced a ...",
-      "url": "https://en.antaranews.com/news/394972/digital-realty-and-bw-digital-partner-to-support-expansion-of-cross-border-connectivity-between-singapore-and-batam",
-      "urlToImage": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
-      "publishedAt": "2025-12-03T15:22:52Z",
-      "content": "<ul><li>Direct landing of the Nongsa\u2013Changi submarine cable into Digital Realty\u2019s SIN12 facility to boost cross-border network resilience and capacity</li><li>Enhanced interconnection to enable faste\u2026 [+7100 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Trends in Sauces, Dressings and Condiments Packaging Market - 2035",
-      "description": "As reported by Towards Packaging experts, the global sauces, dressings and condiments packaging market is anticipated to rise from USD 27.87 billion in 2026 to approximately USD 41.60 billion by 2034, with a CAGR of 4.55% from 2025 to 2034. As reported by Tow\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198923/0/en/Trends-in-Sauces-Dressings-and-Condiments-Packaging-Market-2035.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-12-03T14:00:00Z",
-      "content": "Ottawa, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The global\u00a0sauces, dressings and condiments packaging market, valued at USD 26.66 billion in 2025, is expected to rise to approximately USD 41.60 billion in \u2026 [+20421 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Trends in Asia Pacific Anti-Rust Packaging Products Market - 2035",
-      "description": "According to Towards Packaging consultants, the Asia Pacific anti-rust packaging products market is expected to grow steadily through 2034, rising from its current valuation in 2025 and expanding at a consistent pace throughout the forecast period. According \u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198925/0/en/Trends-in-Asia-Pacific-Anti-Rust-Packaging-Products-Market-2035.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-12-03T14:00:00Z",
-      "content": "Ottawa, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The Asia Pacific anti-rust packaging products market, valued in 2025, is projected to experience significant growth by 2034, according to a study by Towards \u2026 [+18766 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "BioNexus Gene Lab Corp.",
-      "title": "BioNexus Gene Lab Corp. Completes Strategic Investment in Fidelion Diagnostics; Secures 15% Equity Stake in Global AI-Oncology Platform and Exclusive Southeast Asian Rights for VitaGuard\u2122",
-      "description": "KUALA LUMPUR, Malaysia, Dec. 03, 2025 (GLOBE NEWSWIRE) -- BioNexus Gene Lab Corp. (NASDAQ: BGLC) (\"BGLC\" or the \"Company\"), a biotechnology company advancing precision diagnostics and gene-based technologies, today announced the formal completion of its strat\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198909/0/en/BioNexus-Gene-Lab-Corp-Completes-Strategic-Investment-in-Fidelion-Diagnostics-Secures-15-Equity-Stake-in-Global-AI-Oncology-Platform-and-Exclusive-Southeast-Asian-Rights-for-VitaGu.html",
-      "urlToImage": null,
-      "publishedAt": "2025-12-03T13:45:00Z",
-      "content": "KUALA LUMPUR, Malaysia, Dec. 03, 2025 (GLOBE NEWSWIRE) -- BioNexus Gene Lab Corp. (NASDAQ: BGLC) (\"BGLC\" or the \"Company\"), a biotechnology company advancing precision diagnostics and gene-based tech\u2026 [+7245 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "StratNova Capital",
-      "title": "StratNova Capital Strengthens Australia\u2019s Access to Global Growth Equity With New Cross-Border Expansion Framework",
-      "description": "LONDON, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Leading wealth advisory firm StratNova Capital today announced a major expansion of its global growth-equity sourcing framework, designed exclusively to enhance opportunities for Australian investors seeking early acc\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198770/0/en/StratNova-Capital-Strengthens-Australia-s-Access-to-Global-Growth-Equity-With-New-Cross-Border-Expansion-Framework.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8309c7fe-bcf9-4b49-8577-54a2b9069c33",
-      "publishedAt": "2025-12-03T12:31:00Z",
-      "content": "LONDON, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Leading wealth advisory firm StratNova Capital today announced a major expansion of its global growth-equity sourcing framework, designed exclusively to enha\u2026 [+5891 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jim Edwards",
-      "title": "Anthropic considers IPO despite warnings that excess liquidity is blowing a bubble in the markets",
-      "description": "Senior central bank chiefs see excess liquidity in a range of asset markets.",
-      "url": "https://fortune.com/2025/12/03/anthropic-ipo-2026-despite-warnings-excess-liquidity-bubble-stock-markets/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2235057491.jpg?resize=1200,600",
-      "publishedAt": "2025-12-03T12:18:03Z",
-      "content": "Anthropic is considering an IPO, according to the Financial Times, right after a series of warnings from senior central bank chiefs and others of a bubble in AI and excess liquidity in a range of ass\u2026 [+5279 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hospitality Net"
-      },
-      "author": "Marriott",
-      "title": "Welcome to the Era of High Life Worth: An Evolving Global Luxury Landscape Shapes Marriott International\u2019s Luxury Group Strategy for 2026 and Beyond",
-      "description": "From the International Luxury Travel Market (ILTM) in Cannes, Marriott International\u2019s Luxury Group \u2013 which encompasses the unrivaled portfolio of seven brands including The Ritz-Carlton, Ritz-Carlton Reserve, Bvlgari Hotels & Resorts, St. Regis Hotels & Reso\u2026",
-      "url": "https://www.hospitalitynet.org/news/4130030.html",
-      "urlToImage": "https://www.hospitalitynet.org/picture/social_153192200.jpg?t=1764760430",
-      "publishedAt": "2025-12-03T11:14:21Z",
-      "content": "BETHESDA, Md. - From the International Luxury Travel Market (ILTM) in Cannes, Marriott International's Luxury Group which encompasses the unrivaled portfolio of seven brands including The Ritz-Carlto\u2026 [+18038 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": null,
-      "title": "World-Leading Microsurgeon Professor J.P. Hong Joins MediThinQ as CMO, Marking Strong Validation for Next-Generation Digital Microsurgery",
-      "description": "World-Leading Microsurgeon Professor J.P. Hong Joins MediThinQ as CMO, Marking Strong Validation for Next-Generation Digital Microsurgery",
-      "url": "https://www.thehindubusinessline.com/brandhub/world-leading-microsurgeon-professor-jp-hong-joins-medithinq-as-cmo-marking-strong-validation-for-next-generation-digital-microsurgery/article70352708.ece",
-      "urlToImage": "https://th-i.thgim.com/public/brandhub/dgpfjx/article70352705.ece/alternates/LANDSCAPE_1200/Prof_JP_Hong.jpg",
-      "publishedAt": "2025-12-03T10:38:31Z",
-      "content": "SINGAPORE,\u00a0Dec. 3, 2025\u00a0/PRNewswire/ --\u00a0MediThinQ, a fast-growing innovator in surgical displays and digital 3D microscopy, today announced that world-renowned reconstructive microsurgeon Prof. Joon-\u2026 [+3367 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": null,
-      "title": "Solas Fiduciary Services expands further in Dubai",
-      "description": "Solas Fiduciary Services expands further in Dubai",
-      "url": "https://www.thehindubusinessline.com/brandhub/solas-fiduciary-services-expands-further-in-dubai/article70352598.ece",
-      "urlToImage": "https://th-i.thgim.com/public/brandhub/rrqxe9/article70352593.ece/alternates/LANDSCAPE_1200/DSC_4483_copy1.jpg",
-      "publishedAt": "2025-12-03T10:37:14Z",
-      "content": "SINGAPORE,\u00a0Dec. 3, 2025\u00a0/PRNewswire/ -- Solas Fiduciary Services (Solas), a privately owned leader in directorships &amp; corporate governance, continues to strengthen its presence in the Dubai Inter\u2026 [+2796 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "$3.669 Bn Cargo Inspection Market - Global Forecasts from 2025 to 2030: Growth Driven by Surging Global Cargo Trade Volumes and the Imperative to Safeguard High-value Commodities",
-      "description": "Key market opportunities in the global cargo inspection sector include increased demand from expanding global trade, driven by complex supply chain needs, and growing concerns over maritime fraud. Innovations in inspection technologies and rising oil/gas inve\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198660/28124/en/3-669-Bn-Cargo-Inspection-Market-Global-Forecasts-from-2025-to-2030-Growth-Driven-by-Surging-Global-Cargo-Trade-Volumes-and-the-Imperative-to-Safeguard-High-value-Commodities.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-12-03T10:13:00Z",
-      "content": "Dublin, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The \"Cargo Inspection Market - Forecasts from 2025 to 2030\" report has been added to ResearchAndMarkets.com's offering.\r\nThe Global Cargo Inspection Market i\u2026 [+7713 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Flipkart inducts ex-Meta exec Dan Neary to board in preparation for 2026 IPO",
-      "description": "The addition of Leary comes at a crucial time when India\u2019s largest private internet company is going into the next year for a potential public-market listing. Neary joins others on the Flipkart board including Walmart executives Kathryn McLay who is president\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-inducts-ex-meta-exec-dan-neary-to-board-in-preparation-for-2026-ipo/articleshow/125739589.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-25596,resizemode-75,msid-125739589/tech/technology/flipkart-inducts-ex-meta-exec-dan-neary-to-board-in-preparation-for-2026-ipo.jpg",
-      "publishedAt": "2025-12-03T09:42:17Z",
-      "content": "Flipkart has inducted former senior Meta executiveDan Neary to its board of directors, as the Walmart-controlled ecommerce major intensifies efforts towards a long-planned public listing. Neary left \u2026 [+2718 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Flipkart appoints ex-Meta exec Dan Neary to board in preparation for 2026 IPO",
-      "description": "Flipkart has inducted former senior Meta executive Dan Neary to its board of directors. The addition of Leary comes at a crucial time when India\u2019s largest private internet company is going into the next year for a potential public-market listing. Neary joins \u2026",
-      "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-appoints-ex-meta-exec-dan-neary-to-board-in-preparation-for-2026-ipo/articleshow/125739589.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-23386,resizemode-75,msid-125739589/tech/technology/flipkart-appoints-ex-meta-exec-dan-neary-to-board-in-preparation-for-2026-ipo.jpg",
-      "publishedAt": "2025-12-03T09:42:17Z",
-      "content": "Flipkart has inducted former senior Meta executiveDan Neary to its board of directors, as the Walmart-controlled ecommerce major intensifies efforts towards a long-planned public listing. Neary left \u2026 [+2726 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Meta\u2019s Dan Neary joins Flipkart board as ecommerce major gears up for IPO filing in 2026",
-      "description": "The addition of Leary comes at a crucial time when India\u2019s largest private internet company is going into the next year for a potential public-market listing. Neary joins others on the Flipkart board including Walmart executives Kathryn McLay who is president\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/technology/metas-dan-neary-joins-flipkart-board-as-ecommerce-major-gears-up-for-ipo-filing-in-2026/articleshow/125739589.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-25596,resizemode-75,msid-125739589/tech/technology/metas-dan-neary-joins-flipkart-board-as-ecommerce-major-gears-up-for-ipo-filing-in-2026.jpg",
-      "publishedAt": "2025-12-03T09:42:17Z",
-      "content": "Flipkart has inducted former senior Meta executiveDan Neary to its board of directors, as the Walmart-controlled ecommerce major intensifies efforts toward a long-planned public listing, people famil\u2026 [+2312 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": null,
-      "title": "EPG Earns Malaysia\u2019s BOMBA Approval, Paving the Way for Wider Modular Data Center Deployment in ASEAN",
-      "description": "EPG Earns Malaysia\u2019s BOMBA Approval, Paving the Way for Wider Modular Data Center Deployment in ASEAN",
-      "url": "https://www.thehindubusinessline.com/brandhub/epg-earns-malaysias-bomba-approval-paving-the-way-for-wider-modular-data-center-deployment-in-asean/article70352396.ece",
-      "urlToImage": "https://th-i.thgim.com/public/brandhub/bkopvz/article70352386.ece/alternates/LANDSCAPE_1200/perakuan____1.jpg",
-      "publishedAt": "2025-12-03T09:16:05Z",
-      "content": "SINGAPORE,\u00a0Dec. 3, 2025\u00a0/PRNewswire/ -- EPG, a leading provider of modular data center solutions, has received BOMBA certification from Malaysias Fire and Rescue Department for its containerized prod\u2026 [+2585 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "PR Wire",
-      "title": "August Global Partners Closes Flagship Healthcare Fund Above Target, Expanding AUM to $350 Million",
-      "description": "August Global Partners (&quot;AGP&quot;), Asia&#39;s leading independent healthcare and technology investor, today announced the successful close of its ...",
-      "url": "https://en.antaranews.com/news/394893/august-global-partners-closes-flagship-healthcare-fund-above-target-expanding-aum-to-350-million",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/12/03/ag.jpg",
-      "publishedAt": "2025-12-03T08:34:15Z",
-      "content": "Singapore (ANTARA/PRNewswire)- August Global Partners (\"AGP\"), Asia's leading independent healthcare and technology investor, today announced the successful close of its second fund, the AGP Healthca\u2026 [+3431 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "author": "Ian Cheng",
-      "title": "Official Gundam merchandise store to open at Jewel Changi Airport in early 2026",
-      "description": "The store will feature exclusive model kit releases, workshops and displays of iconic Gundam models. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/life/entertainment/official-gundam-merchandise-store-to-open-at-jewel-changi-airport-in-early-2026",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/7f39b47ccb24e199ccc94e676f06dd0151d4510a70e6859afda9e0e627d0d288",
-      "publishedAt": "2025-12-03T08:34:15Z",
-      "content": "SINGAPORE - The Gundam Base an official store selling a range of merchandise from the popular Gundam franchise will be landing in Singapore in early 2026. \r\nWe are beyond excited to announce that the\u2026 [+1509 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "Nisha Poddar, Soumil Kamat",
-      "title": "Meesho IPO: Did SBI Mutual Fund Get Higher Allocation Due to Early Interest?",
-      "description": "Meesho, on Tuesday said it has garnered a little over Rs 2,439 crore from anchor investors, including SBI Mutual Fund, Fidelity Funds, and BlackRock, ahead of its IPO opening for subscription.",
-      "url": "https://www.ndtvprofit.com/ipos/meesho-ipo-did-sbi-mutual-fund-get-higher-allocation-due-to-early-interest",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2Fiw7znm40%2Fmeesho.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-12-03T07:54:26Z",
-      "content": "Meesho, on Tuesday said it has garnered a little over Rs 2,439 crore from anchor investors, including SBI Mutual Fund, Fidelity Funds, and BlackRock, ahead of its IPO opening for subscription. \r\nThe \u2026 [+1561 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "author": null,
-      "title": "Kajima and Accor Announce Raffles Residences Bali: A Community of Ultra-Luxury Homes on a Secluded 5.3-Hectare Oceanfront Estate",
-      "description": "BALI, Indonesia, Dec. 3, 2025 /PRNewswire/ -- Accor and Kajima Development Pte Ltd today announced the debut of Raffles Residences Bali, an exclusive lineup of 28 ultra-luxury homes launching in multiple phases, located within the 5.3-hectare private estate a\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/kajima-and-accor-announce-raffles-residences-bali-a-community-of-ultra-luxury-homes-on-a-secluded-5-3-hectare-oceanfront-estate-302631274.html",
-      "urlToImage": "https://mma.prnewswire.com/media/2837119/Raffles_Hotels___Resorts_Kajima_and_Accor_Announce_Raffles_Resid.jpg?p=facebook",
-      "publishedAt": "2025-12-03T06:03:00Z",
-      "content": "BALI, Indonesia, Dec. 3, 2025 /PRNewswire/ -- Accor and Kajima Development Pte Ltd today announced the debut of Raffles Residences Bali, an exclusive lineup of 28 ultra-luxury homes launching in mult\u2026 [+12881 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Hyunjoo Jin, Fanny Potkin, Wen-Yee Lee, Anton Bridge and Max A. Cherney",
-      "title": "The AI frenzy is driving a new global supply chain crisis",
-      "description": "An acute global shortage of memory chips is forcing artificial intelligence and consumer-electronics companies to fight for dwindling supplies, as prices...",
-      "url": "https://finance.yahoo.com/news/ai-frenzy-driving-global-supply-020135940.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/b875e1174d2d27748f46ae25a0526158",
-      "publishedAt": "2025-12-03T02:01:35Z",
-      "content": "By Hyunjoo Jin, Fanny Potkin, Wen-Yee Lee, Anton Bridge and Max A. Cherney\r\nDec 3 (Reuters) - An acute global shortage of memory chips is forcing artificial intelligence and consumer-electronics comp\u2026 [+10344 chars]",
-      "trigger_type": "Expansion"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MoneyHero Limited",
-      "title": "MoneyHero Group Expands Hong Kong Digital Asset Wealth Product Offerings in Collaboration with HashKey Group",
-      "description": "HONG KONG, Dec. 02, 2025 (GLOBE NEWSWIRE) -- MoneyHero Limited\r\n (NASDAQ: MNY\r\n) (\u201cMoneyHero\u201d or the \u201cCompany\u201d), a leading tech- and AI-powered personal finance aggregation and comparison platform and a digital insurance brokerage provider in Greater Southeas\u2026",
-      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198503/0/en/MoneyHero-Group-Expands-Hong-Kong-Digital-Asset-Wealth-Product-Offerings-in-Collaboration-with-HashKey-Group.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bd9e54de-3bef-4be0-8478-e1b842daa9e6",
-      "publishedAt": "2025-12-03T02:00:00Z",
-      "content": "HONG KONG, Dec. 02, 2025 (GLOBE NEWSWIRE) -- MoneyHero Limited\r\n (NASDAQ: MNY\r\n) (MoneyHero or the Company), a leading tech- and AI-powered personal finance aggregation and comparison platform and a \u2026 [+4655 chars]",
       "trigger_type": "Expansion"
     }
   ]
